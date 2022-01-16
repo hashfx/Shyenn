@@ -1,7 +1,7 @@
 ## Shyenn
 
-### Member Names
+### Members Name
 
-### Harsh Soni
-### Tanishq Chaturvedi
-### Shivang Mishra
++ ### Harsh Soni
++ ### Tanishq Chaturvedi
++ ### Shivang Mishra
